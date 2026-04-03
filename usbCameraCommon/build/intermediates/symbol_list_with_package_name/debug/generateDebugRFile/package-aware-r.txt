@@ -1,0 +1,3 @@
+com.serenegiant.usbcameracommon
+raw camera_click
+string app_name
